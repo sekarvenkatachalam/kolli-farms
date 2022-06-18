@@ -1,6 +1,6 @@
 pipeline{
     
-//     agents { 'label' 'linux-build'}
+    agents { 'label' 'linux-build'}
     stages{
 
         stage("build-the-source-code"){
