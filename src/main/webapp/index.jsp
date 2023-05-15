@@ -37,7 +37,7 @@
                 <BR>
                 <BR>
                 <BR>
-                        <FONT COLOR="WHITE" SIZE="7">WELCOME TO NITHYASEKAR FARMS
+                        <FONT COLOR="BLUE" SIZE="7">WELCOME TO NITHYASEKAR FARMS
                         <br>
 			<FONT COLOR="WHITE" SIZE="5">|- from the blended nature of Kalvarayan and Kolli Hills -|
 			<br><br>
